@@ -1,3 +1,6 @@
+%Compilation time is around 1.6 seconds for prime numbers upto 1 million
+%sieve of eratosthenes approach
+
 -module(prime_1).
 -compile(export_all).
 
