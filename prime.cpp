@@ -1,3 +1,5 @@
+//Compilation time is 1.96 seconds for prime numbers upto 1 million
+
 #include <iostream> 
 #include <cstdio>
 #include <fstream>
