@@ -1,3 +1,6 @@
+%compilation time is 9 seconds for prime numbers upto 1 million
+%Use only 1 core
+
 -module(primeg).
 -compile(export_all).
 
